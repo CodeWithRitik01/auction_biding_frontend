@@ -6,7 +6,6 @@
 ![Screenshot (336)](https://github.com/user-attachments/assets/9ec07f41-357b-4c82-92a5-c0f7b9e68c78)
 ![Screenshot (337)](https://github.com/user-attachments/assets/9a75e87d-1898-47b6-9e60-c215a8704c31)
 ![Screenshot (338)](https://github.com/user-attachments/assets/0764b3ac-3065-42b9-bdfc-1f582b1527a1)
-![Screenshot (339)](https://github.com/user-attachments/assets/71ce2834-601a-4116-b983-053fb852f59d)
 
 
 ## Getting Started
