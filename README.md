@@ -32,6 +32,10 @@ To build the project for production, run:
 
 npm run build
 
+## Deployed link
+
+("https://ritik-kumar-wasserstoff-fullstack-intern-task-frontend.vercel.app/")
+
 ## Backend github link
 
 ("https://github.com/CodeWithRitik01/auction_bidding_backend")
