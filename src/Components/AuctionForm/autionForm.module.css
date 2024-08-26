@@ -1,0 +1,65 @@
+.main{
+    display: flex;
+    justify-content: center;
+    flex-shrink: 0;
+    flex-wrap: wrap;
+    
+}
+
+.main > h1{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.formOutterDiv{
+   height: 50vh;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+}
+
+.formDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30%;
+    box-shadow: 0px 20px 20px 0px;
+}
+
+.formDiv > input{
+    margin: 15px 0px 15px 0px;
+    border: 0;
+    height: 8%;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.formDiv > select{
+    margin: 15px 0px 15px 0px;
+    border: 0;
+    height: 8%;
+    width: 80%;
+    border-radius: 10px;
+}
+
+.formDiv > button{
+    height: 8%;
+    width: 30%;
+    background-color: rgb(99, 99, 247);
+    border: 0;
+    border-radius: 30px;
+    margin: 10px;
+}
+
+.formDiv > button:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 3px solid rgb(99, 99, 247);
+}
+
+.redirecth3:hover{
+    cursor: pointer;
+}
