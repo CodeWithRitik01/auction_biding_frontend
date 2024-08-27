@@ -1,5 +1,9 @@
 # Auction Bidding App
 
+## Backend github link
+
+("https://github.com/CodeWithRitik01/auction_bidding_backend")
+
 ![Screenshot (339)](https://github.com/user-attachments/assets/2648e7ec-1117-46b9-a5bd-80c1e36734bc)
 ![Screenshot (335)](https://github.com/user-attachments/assets/3e0641e9-3897-40b1-ac4a-aa9e57dcb494)
 ![Screenshot (334)](https://github.com/user-attachments/assets/6720fe2a-ceb9-4cb9-80ce-f3154a702d2a)
@@ -36,7 +40,5 @@ npm run build
 
 ("https://ritik-kumar-wasserstoff-fullstack-intern-task-frontend.vercel.app/")
 
-## Backend github link
 
-("https://github.com/CodeWithRitik01/auction_bidding_backend")
 
